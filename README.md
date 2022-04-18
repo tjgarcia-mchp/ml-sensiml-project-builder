@@ -1,3 +1,9 @@
+
+# MIGRATED
+# This repository is no longer maintained; this project has been moved [here](https://github.com/MicrochipTech/ml-sensiml-project-builder).
+#
+#
+
 # SensiML Project Builder
 This repository contains instructions for creating a library object from an
 [SensiML Analytics Studio](https://sensiml.com/products/analytics-studio/) project for any xc32
